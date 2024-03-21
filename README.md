@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Rohit Asegaonkar</h1>
 <h3 align="center">Passionately Curious.</h3>
-<h3 align="center">Engineer, Software Development, Quantum Computing (Stepping Into), AI & ML, Physics and Mathematics Enthusiast.</h3>
+<h3 align="center">Engineer, Software Development, AI & ML, Physics and Mathematics Enthusiast.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitasegaonkar&label=Profile%20views&color=0e75b6&style=flat" alt="rohitasegaonkar" /> </p>
 
 
