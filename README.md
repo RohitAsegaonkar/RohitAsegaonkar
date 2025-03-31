@@ -1,7 +1,6 @@
 <h1 align="center">Hi👋, I'm Rohit Asegaonkar</h1>
 <h3 align="center">Passionately Curious. तत्त्वमसि|</h3>
 <h3 align="center">Software Engineer, AI & ML, Physics and Mathematics Enthusiast.</h3>
-<h3 align="center">Interested in AGI/ASI, Philosophy and Theory of Consciousness.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitasegaonkar&label=Profile%20views&color=0e75b6&style=flat" alt="rohitasegaonkar" /> </p>
 
 
